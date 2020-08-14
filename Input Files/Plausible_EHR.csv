@@ -1,0 +1,29 @@
+﻿Variable Name,Unit of Measure,Minmum Plausible value,Maximum Plausible value
+Albumin,g/dl,0.5,6.5
+Arterial_partial_pressure_co2,Millimetres of mercury,5,250
+Arterial_ph,None,6.3,8.5
+Bilirubin,micromol/L,1,1200
+BUN,mmol/L,0.5,100
+Calcium,mmol/L,0,5.3
+Creatinine,micromol/L,0.1,33.9
+glucose,mmol/L,0,1620
+Hco3,None,1,80
+heartrate,Beats per minute,1,300
+Hemaglobin,g/dL,1,25
+Hematocrit,Fraction,0,75
+INR,micromol/L,2,3
+Lactate,mmol/L,0,50
+Mean_blood_pressure,Millimetres of mercury,1,300
+Pao2fio2,Fraction,71.42,720
+Platlets,10^9/L,0,1500
+Potassium,mmol/L,0.05,15
+Resprate_Rate,Breaths per minute,1,80
+Sodium,mmol/L,1,215
+Oxygen_saturation,Percentage,21,100
+Temperature,Degrees Celsius,20,46
+WBC,10^9/L,0,300
+Urineoutput,Millilitres,0,30000
+Systolic_blood_pressure_max,Millimetres of mercury,1,250
+Systolic_blood_pressure_min,Millimetres of mercury,1,250
+Diastolic_blood_pressure_min,Millimetres of mercury,1,350
+Diastolic_blood_pressure_max,Millimetres of mercury,1,350
