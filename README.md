@@ -20,13 +20,10 @@ About the repository
 ============
 
 <p align="center">
-<img src="https://github.com/Ghadeer-O/Data-Analytics-using-Electronic-Health-Records/blob/master/logo.jpg " width="400" height="340"> 
+<img src="https://github.com/Ghadeer-O/EHR/blob/master/logo.jpg " width="400" height="340"> 
 </p>
 This repository contains a generic EHR (Electronic Health Records) preprocessing pipeline completed at the Clinical AI Lab, New York University Abu Dhabi.
-<<<<<<< HEAD
-=======
 
->>>>>>> b3832fb699552051745de0c0c1275cf5f7d411af
 
 Authors
 --------------
@@ -45,7 +42,7 @@ pip install -r requirements.txt
 
 Repository Content
 ====================
-![Preprocessing highlights](https://github.com/Ghadeer-O/Data-Analytics-using-Electronic-Health-Records/blob/master/Input%20Files/figure.jpg)
+![Preprocessing highlights](https://github.com/Ghadeer-O/EHR/blob/master/Input%20Files/figure.jpg)
 
 Dataset
 -------------------------
@@ -57,11 +54,7 @@ Exploratory Data Analysis
 -------------------------
 Prior to apply any machine learning models, it is essential to understand the characteristics of the data at hand. Exploratory Data Analysis (EDA) is an initial investigation of the data with the aim to discover patterns, to detect anomalies, and better understand the variables and their distribution.
 
-<<<<<<< HEAD
-In this folder, we present a notebook showing an investigation of the dummy dataset that will be used throughout the repository. The notebook introduces some functions used to visualize the data as well as some libraries that accelerate the data analysis . The folder also includes a profiling report "report.html" that highlights the main quantile and descriptive statistical attributes, correlations, missing values and outliers present in the dataset. 
-=======
-In this folder, we present a notebook showing an investigation of the dummy dataset that will be used throughout the repository. The notebook introduces some functions used to visualize the data as well as some libraries that accelarate the data analysis . The folder also includes a profiling report "report.html" that highlights the main quantile and descriptive statistical attributes, correlations, missing values and outliers present in the dataset. 
->>>>>>> b3832fb699552051745de0c0c1275cf5f7d411af
+In this folder, we present a notebook showing an investigation of the dummy dataset that will be used throughout the repository. The notebook introduces some functions used to visualize the data as well as some libraries that accelerate the data analysis . The folder also includes a profiling report "report.html" that highlights the main quantile and descriptive statistical attributes, correlations, missing values and outliers present in the dataset.
 
 Data preprocessing
 ----------------
