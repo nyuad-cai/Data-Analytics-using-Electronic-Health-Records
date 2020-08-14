@@ -54,11 +54,11 @@ Exploratory Data Analysis
 -------------------------
 Prior to apply any machine learning models, it is essential to understand the characteristics of the data at hand. Exploratory Data Analysis (EDA) is an initial investigation of the data with the aim to discover patterns, to detect anomalies, and better understand the variables and their distribution.
 
-In this folder, we present a notebook showing an investigation of the dummy dataset that will be used throughout the repository. The notebook introduces some functions used to visualize the data as well as some libraries that accelerate the data analysis . The folder also includes a profiling report "report.html" that highlights the main quantile and descriptive statistical attributes, correlations, missing values and outliers present in the dataset.
+In this folder, we present a notebook showing an investigation of the dummy dataset that will be used throughout the repository. The notebook introduces some functions used to visualize the data as well as some libraries that accelerate the data analysis . The folder also includes a profiling report "report_dummy.html" that highlights the main quantile and descriptive statistical attributes, correlations, missing values and outliers present in the dataset.
 
 Data preprocessing
 ----------------
-This script includes functions that can be used preprocess Electronic Health records that is stored in "csv" file format. The file includes a set of functions that handle typical issues in EHR such as missing values, implausible and invalid values, and categorical encoding. The script also includes multiple functions that demonstrate examples of feature engineering that are specifically useful in clinical data analysis.
+This script includes functions that can be used preprocess Electronic Health records that are stored in "csv" file format. The file includes a set of functions that handle typical issues in EHR such as missing values, implausible and invalid values, and categorical encoding. The script also includes multiple functions that demonstrate examples of feature engineering that are specifically useful in clinical data analysis.
 
 After calling the functions, the resulting datasets are stored in a pkl file under the name
 "prepared.pkl".
@@ -68,7 +68,7 @@ In the script, all the functions have details on the purpose and usage of each o
 
 Model
 -----
-After preprocessing, datasets are usually split into training and testing sets The training set is used to train the machine learning models, while the testing set is used to test and validate the predictions of the machine learning models. In this project we present a sample notebook that introduces commonly used libraries for building machine learning models applied to the dummy dataset with a with 8:2 split ratio for the training and testing sets.
+After preprocessing, datasets are usually split into training and testing sets The training set is used to train the machine learning models, while the test set is used to test and validate the predictions of the machine learning models. In this project we present a sample notebook that introduces commonly used libraries for building machine learning models applied to the dummy dataset with a with 8:2 split ratio for the training and testing sets.
 
 The models included in the sample notebook are Logistic Regression, Multi-layer Perceptron Regressor, Support Vector Machine, Gradient Boosting Regressor, and  Ridge Regressor. 
 
