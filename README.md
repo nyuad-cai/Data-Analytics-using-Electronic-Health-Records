@@ -20,7 +20,7 @@ About the repository
 ============
 
 <p align="center">
-<img src="https://github.com/Ghadeer-O/EHR/blob/master/logo.jpg" width="400" height="340"> 
+<img src="https://github.com/nyuad-cai/Data-Analytics-using-Electronic-Health-Records/blob/master/logo.jpg" width="400" height="340"> 
 </p>
 This repository contains a generic EHR (Electronic Health Records) preprocessing pipeline completed at the Clinical AI Lab, New York University Abu Dhabi.
 
