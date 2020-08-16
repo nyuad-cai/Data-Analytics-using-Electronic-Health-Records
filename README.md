@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 Repository Content
 ====================
-![Preprocessing highlights](https://github.com/Ghadeer-O/EHR/blob/master/Input%20Files/figure.jpg)
+![Preprocessing highlights](https://github.com/nyuad-cai/Data-Analytics-using-Electronic-Health-Records/blob/master/Input%20Files/figure.jpg)
 
 Dataset
 -------------------------
