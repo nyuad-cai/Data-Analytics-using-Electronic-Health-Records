@@ -54,7 +54,7 @@ Exploratory Data Analysis
 -------------------------
 Prior to apply any machine learning models, it is essential to understand the characteristics of the data at hand. Exploratory Data Analysis (EDA) is an initial investigation of the data with the aim to discover patterns, to detect anomalies, and better understand the variables and their distribution.
 
-In this folder, we present a notebook showing an investigation of the dummy dataset that will be used throughout the repository. The notebook introduces some functions used to visualize the data as well as some libraries that accelerate the data analysis . The folder also includes a profiling report "report_dummy.html" that highlights the main quantile and descriptive statistical attributes, correlations, missing values and outliers present in the dataset.
+In this folder, we present a notebook showing an investigation of the dummy dataset that will be used throughout the repository. The notebook introduces some functions used to visualize the data as well as some libraries that accelerate the data analysis. The folder also includes a profiling report "report_dummy.html" that highlights the main quantile and descriptive statistical attributes, correlations, missing values and outliers present in the dataset.
 
 Data preprocessing
 ----------------
